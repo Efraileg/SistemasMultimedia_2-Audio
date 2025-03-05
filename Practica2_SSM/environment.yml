@@ -77,6 +77,7 @@ dependencies:
   - pure_eval=0.2.2=pyhd3eb1b0_0
   - pycparser=2.21=pyhd3eb1b0_0
   - pygments=2.15.1=py310h06a4308_1
+  - pyparsing=3.2.0=py310h06a4308_0
   - pysocks=1.7.1=py310h06a4308_0
   - python=3.10.16=he870216_1
   - python-dateutil=2.9.0post0=py310h06a4308_2
